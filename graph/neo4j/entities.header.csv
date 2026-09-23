@@ -1,0 +1,1 @@
+entity_id:ID(Entity),name,entity_type,l3_category_id,l2_category_id,l3_en,l2_en,l3_zh,l2_zh,classification_status,domain_flag,n_surface_forms:long,mention_count:long,paper_count:long

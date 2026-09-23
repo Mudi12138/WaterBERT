@@ -1,0 +1,26 @@
+# Large artifacts are distributed through Hugging Face / Zenodo, not git
+*.safetensors
+*.bin
+*.pt
+*.npy
+*.npz
+*.sqlite
+*.sqlite-*
+*.parquet
+*.csv.gz
+!graph/sample/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

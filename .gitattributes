@@ -1,0 +1,3 @@
+* text=auto
+*.sh text eol=lf
+*.cypher text eol=lf

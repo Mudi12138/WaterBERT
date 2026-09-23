@@ -1,0 +1,182 @@
+category_id,level,entity_type,name_en,name_zh,parent_id
+POL-L3-01,L3,Pollutant,Organic micropollutants,有机微污染物,
+POL-L3-02,L3,Pollutant,Emerging contaminants,新兴污染物,
+POL-L3-03,L3,Pollutant,Heavy metals & metalloids,重金属与类金属,
+POL-L3-04,L3,Pollutant,Bulk matrices & others,基质与其他,
+POL-L3-05,L3,Pollutant,Dyes,染料,
+POL-L3-06,L3,Pollutant,Nutrients,营养盐,
+POL-L3-07,L3,Pollutant,Aggregate water-quality indicators,水质综合指标,
+POL-L3-08,L3,Pollutant,Inorganic salts & ions,无机盐与离子,
+POL-L3-09,L3,Pollutant,Gases,气体,
+POL-L3-10,L3,Pollutant,General terms,统称,
+POL-L3-11,L3,Pollutant,Out of domain,领域外,
+POL-L2-001,L2,Pollutant,Pharmaceuticals & personal care products,药物与个人护理品,POL-L3-01
+POL-L2-002,L2,Pollutant,Industrial organics,工业有机物,POL-L3-01
+POL-L2-003,L2,Pollutant,Pesticides & herbicides,农药与除草剂,POL-L3-01
+POL-L2-004,L2,Pollutant,Persistent organic pollutants,持久性有机物,POL-L3-01
+POL-L2-005,L2,Pollutant,Disinfection by-products,消毒副产物,POL-L3-01
+POL-L2-006,L2,Pollutant,PFAS,全氟化合物,POL-L3-01
+POL-L2-007,L2,Pollutant,Resistance genes & pathogens,抗性基因与病原,POL-L3-02
+POL-L2-008,L2,Pollutant,Endocrine disruptors,内分泌干扰物,POL-L3-02
+POL-L2-009,L2,Pollutant,Nanomaterials,纳米材料,POL-L3-02
+POL-L2-010,L2,Pollutant,Microplastics,微塑料,POL-L3-02
+POL-L2-011,L2,Pollutant,Algal toxins,藻毒素,POL-L3-02
+POL-L2-012,L2,Pollutant,Heavy metals,重金属,POL-L3-03
+POL-L2-013,L2,Pollutant,Metalloids & radionuclides,类金属与放射性,POL-L3-03
+POL-L2-014,L2,Pollutant,Bulk organics,有机基质,POL-L3-04
+POL-L2-015,L2,Pollutant,Oils,油类,POL-L3-04
+POL-L2-016,L2,Pollutant,Dyes,染料,POL-L3-05
+POL-L2-017,L2,Pollutant,Nitrogen species,氮系,POL-L3-06
+POL-L2-018,L2,Pollutant,Phosphorus species,磷系,POL-L3-06
+POL-L2-019,L2,Pollutant,General nutrient terms,营养盐统称,POL-L3-06
+POL-L2-020,L2,Pollutant,Aggregate organic indicators,有机物综合指标,POL-L3-07
+POL-L2-021,L2,Pollutant,Physicochemical indicators,物理化学指标,POL-L3-07
+POL-L2-022,L2,Pollutant,Salts & anions,盐与阴离子,POL-L3-08
+POL-L2-023,L2,Pollutant,Alkali & alkaline-earth metals,碱金属碱土金属,POL-L3-08
+POL-L2-024,L2,Pollutant,Gases,气体,POL-L3-09
+POL-L2-025,L2,Pollutant,General pollutant terms,污染物统称,POL-L3-10
+POL-L2-026,L2,Pollutant,Biomedical markers,生物医学标志物,POL-L3-11
+WTP-L3-01,L3,Wastewater_Treatment_Process,Physicochemical treatment,化学处理,
+WTP-L3-02,L3,Wastewater_Treatment_Process,Biological treatment,生物处理,
+WTP-L3-03,L3,Wastewater_Treatment_Process,Advanced oxidation,高级氧化,
+WTP-L3-04,L3,Wastewater_Treatment_Process,Physical separation,物理分离,
+WTP-L3-05,L3,Wastewater_Treatment_Process,Thermochemical conversion,热化学转化,
+WTP-L3-06,L3,Wastewater_Treatment_Process,Electrochemical treatment,电化学,
+WTP-L3-07,L3,Wastewater_Treatment_Process,General terms,统称,
+WTP-L3-08,L3,Wastewater_Treatment_Process,Out of domain,领域外,
+WTP-L2-001,L2,Wastewater_Treatment_Process,Other chemical,其他化学,WTP-L3-01
+WTP-L2-002,L2,Wastewater_Treatment_Process,Adsorption & ion exchange,吸附与离子交换,WTP-L3-01
+WTP-L2-003,L2,Wastewater_Treatment_Process,Disinfection,消毒,WTP-L3-01
+WTP-L2-004,L2,Wastewater_Treatment_Process,Coagulation & sedimentation,混凝沉淀,WTP-L3-01
+WTP-L2-005,L2,Wastewater_Treatment_Process,Ecological engineering,生态工程,WTP-L3-02
+WTP-L2-006,L2,Wastewater_Treatment_Process,Nitrogen & phosphorus removal,脱氮除磷,WTP-L3-02
+WTP-L2-007,L2,Wastewater_Treatment_Process,Anaerobic digestion & fermentation,厌氧与发酵,WTP-L3-02
+WTP-L2-008,L2,Wastewater_Treatment_Process,Biodegradation,生物降解,WTP-L3-02
+WTP-L2-009,L2,Wastewater_Treatment_Process,Aerobic activated sludge,好氧活性污泥,WTP-L3-02
+WTP-L2-010,L2,Wastewater_Treatment_Process,General AOPs,高级氧化统称,WTP-L3-03
+WTP-L2-011,L2,Wastewater_Treatment_Process,Sonochemical & plasma,声化学与等离子,WTP-L3-03
+WTP-L2-012,L2,Wastewater_Treatment_Process,Photocatalysis,光催化,WTP-L3-03
+WTP-L2-013,L2,Wastewater_Treatment_Process,Fenton-like,芬顿类,WTP-L3-03
+WTP-L2-014,L2,Wastewater_Treatment_Process,Ozone & peroxide,臭氧与过氧,WTP-L3-03
+WTP-L2-015,L2,Wastewater_Treatment_Process,Membrane separation,膜分离,WTP-L3-04
+WTP-L2-016,L2,Wastewater_Treatment_Process,Solid-liquid separation,固液分离,WTP-L3-04
+WTP-L2-017,L2,Wastewater_Treatment_Process,Phase-change separation,相变分离,WTP-L3-04
+WTP-L2-018,L2,Wastewater_Treatment_Process,Thermal conversion,热转化,WTP-L3-05
+WTP-L2-019,L2,Wastewater_Treatment_Process,Electrochemical oxidation,电化学氧化,WTP-L3-06
+WTP-L2-020,L2,Wastewater_Treatment_Process,General process terms,处理过程统称,WTP-L3-07
+WTP-L2-021,L2,Wastewater_Treatment_Process,Medical & food processing,医学与食品,WTP-L3-08
+WTP-L2-022,L2,Wastewater_Treatment_Process,Agricultural irrigation,农业灌溉,WTP-L3-08
+RCT-L3-01,L3,Reactor,Bioreactors,生物反应器,
+RCT-L3-02,L3,Reactor,Thermal & physicochemical units,热与物化设备,
+RCT-L3-03,L3,Reactor,Filtration & separation units,过滤与分离设备,
+RCT-L3-04,L3,Reactor,Bioelectrochemical systems,生物电化学,
+RCT-L3-05,L3,Reactor,Ecological treatment facilities,生态处理设施,
+RCT-L3-06,L3,Reactor,Packed beds & columns,填充床与柱,
+RCT-L3-07,L3,Reactor,Photo- & algal reactors,光与藻类反应器,
+RCT-L3-08,L3,Reactor,Out of domain,领域外,
+RCT-L2-001,L2,Reactor,Anaerobic reactors,厌氧反应器,RCT-L3-01
+RCT-L2-002,L2,Reactor,Biofilm reactors,生物膜反应器,RCT-L3-01
+RCT-L2-003,L2,Reactor,Membrane bioreactors,膜生物反应器,RCT-L3-01
+RCT-L2-004,L2,Reactor,Suspended-growth reactors,悬浮生长反应器,RCT-L3-01
+RCT-L2-005,L2,Reactor,General reactors,通用反应器,RCT-L3-02
+RCT-L2-006,L2,Reactor,Thermal & plasma units,热与等离子设备,RCT-L3-02
+RCT-L2-007,L2,Reactor,Filters,过滤设备,RCT-L3-03
+RCT-L2-008,L2,Reactor,Membrane modules & elements,膜组件与元件,RCT-L3-03
+RCT-L2-009,L2,Reactor,Sedimentation & solid-liquid separation,沉淀与固液分离,RCT-L3-03
+RCT-L2-010,L2,Reactor,Microbial electrochemical devices,微生物电化学装置,RCT-L3-04
+RCT-L2-011,L2,Reactor,Electrolytic & electrochemical cells,电解与电化学池,RCT-L3-04
+RCT-L2-012,L2,Reactor,Wetlands & ponds,湿地与塘,RCT-L3-05
+RCT-L2-013,L2,Reactor,Columns & fixed beds,柱与固定床,RCT-L3-06
+RCT-L2-014,L2,Reactor,Photoreactors,光反应器,RCT-L3-07
+RCT-L2-015,L2,Reactor,Non-water-treatment devices,非水处理装置,RCT-L3-08
+TRP-L3-01,L3,Treatment_Parameter,Reaction conditions,反应条件,
+TRP-L3-02,L3,Treatment_Parameter,Mass transfer & kinetics,传质与动力学,
+TRP-L3-03,L3,Treatment_Parameter,Operating parameters,运行参数,
+TRP-L3-04,L3,Treatment_Parameter,Material characterization,材料表征,
+TRP-L3-05,L3,Treatment_Parameter,Water quality parameters,水质参数,
+TRP-L3-06,L3,Treatment_Parameter,Out of domain,领域外,
+TRP-L2-001,L2,Treatment_Parameter,Dosage & concentration,投加与浓度,TRP-L3-01
+TRP-L2-002,L2,Treatment_Parameter,Time,时间,TRP-L3-01
+TRP-L2-003,L2,Treatment_Parameter,pH & temperature,酸碱与温度,TRP-L3-01
+TRP-L2-004,L2,Treatment_Parameter,Electrical conditions,电学条件,TRP-L3-01
+TRP-L2-005,L2,Treatment_Parameter,Light & pressure,光照与压力,TRP-L3-01
+TRP-L2-006,L2,Treatment_Parameter,Physical properties,物性,TRP-L3-02
+TRP-L2-007,L2,Treatment_Parameter,Kinetics & thermodynamics,动力学热力学,TRP-L3-02
+TRP-L2-008,L2,Treatment_Parameter,Hydraulics & loading,水力与负荷,TRP-L3-03
+TRP-L2-009,L2,Treatment_Parameter,Energy & cost,能耗与经济,TRP-L3-03
+TRP-L2-010,L2,Treatment_Parameter,Geometry & quantity,几何与用量,TRP-L3-04
+TRP-L2-011,L2,Treatment_Parameter,Interfacial properties,界面性质,TRP-L3-04
+TRP-L2-012,L2,Treatment_Parameter,Particle size & morphology,粒径与形貌,TRP-L3-04
+TRP-L2-013,L2,Treatment_Parameter,Surface area & porosity,比表面与孔,TRP-L3-04
+TRP-L2-014,L2,Treatment_Parameter,Water quality indicators,水质指标,TRP-L3-05
+TRP-L2-015,L2,Treatment_Parameter,Agronomy & physiology,农学与生理,TRP-L3-06
+TRP-L2-016,L2,Treatment_Parameter,Materials mechanics,材料力学,TRP-L3-06
+MIC-L3-01,L3,Microorganism,Taxa,分类阶元,
+MIC-L3-02,L3,Microorganism,Functional microbial groups,功能菌群,
+MIC-L3-03,L3,Microorganism,Fungi,真菌与酵母,
+MIC-L3-04,L3,Microorganism,Microalgae,藻类,
+MIC-L3-05,L3,Microorganism,Communities & aggregates,群落与聚集体,
+MIC-L3-06,L3,Microorganism,Pathogens & indicator bacteria,病原与指示菌,
+MIC-L3-07,L3,Microorganism,Viruses & bacteriophages,病毒与噬菌体,
+MIC-L3-08,L3,Microorganism,Resistant microorganisms,抗性微生物,
+MIC-L3-09,L3,Microorganism,Protozoa & parasites,原生动物与寄生虫,
+MIC-L3-10,L3,Microorganism,Aquatic organisms,水生生物,
+MIC-L3-11,L3,Microorganism,General terms,统称,
+MIC-L3-12,L3,Microorganism,Out of domain,领域外,
+MIC-L2-001,L2,Microorganism,Phylum to species,门纲属种,MIC-L3-01
+MIC-L2-002,L2,Microorganism,Degraders & other functional bacteria,降解与其他功能菌,MIC-L3-02
+MIC-L2-003,L2,Microorganism,Nitrogen-removing bacteria,脱氮功能菌,MIC-L3-02
+MIC-L2-004,L2,Microorganism,Phosphorus-removing & sulfur bacteria,除磷与硫代谢菌,MIC-L3-02
+MIC-L2-005,L2,Microorganism,Methanogens & electroactive bacteria,产甲烷与产电菌,MIC-L3-02
+MIC-L2-006,L2,Microorganism,Fungi,真菌与酵母,MIC-L3-03
+MIC-L2-007,L2,Microorganism,Microalgae & cyanobacteria,微藻与蓝藻,MIC-L3-04
+MIC-L2-008,L2,Microorganism,Communities & cultures,群落与培养物,MIC-L3-05
+MIC-L2-009,L2,Microorganism,Enteric pathogens & fecal indicators,肠道致病与指示菌,MIC-L3-06
+MIC-L2-010,L2,Microorganism,Other pathogens,其他病原菌,MIC-L3-06
+MIC-L2-011,L2,Microorganism,Viruses & bacteriophages,病毒与噬菌体,MIC-L3-07
+MIC-L2-012,L2,Microorganism,Resistant bacteria & resistomes,抗性菌与抗性组,MIC-L3-08
+MIC-L2-013,L2,Microorganism,Parasites & cysts,寄生虫与孢囊,MIC-L3-09
+MIC-L2-014,L2,Microorganism,Plankton & benthic organisms,浮游与底栖生物,MIC-L3-10
+MIC-L2-015,L2,Microorganism,General microbial terms,微生物统称,MIC-L3-11
+MIC-L2-016,L2,Microorganism,Non-microbial organisms,非微生物生物,MIC-L3-12
+MIC-L2-017,L2,Microorganism,Clinical & gut microbiota,临床与肠道菌群,MIC-L3-12
+DOS-L3-01,L3,Dosed_Material,Catalysts & adsorbents,催化与吸附材料,
+DOS-L3-02,L3,Dosed_Material,Polymers & biological agents,高分子与生物制剂,
+DOS-L3-03,L3,Dosed_Material,Nanoparticles & zero-valent metals,纳米与零价金属,
+DOS-L3-04,L3,Dosed_Material,Minerals & solid-waste matrices,矿物与固废基质,
+DOS-L3-05,L3,Dosed_Material,Oxidants & disinfectants,氧化与消毒,
+DOS-L3-06,L3,Dosed_Material,Coagulants & conditioners,混凝与调理药剂,
+DOS-L3-07,L3,Dosed_Material,"Acids, bases, salts & electrolytes",酸碱盐与电解质,
+DOS-L3-08,L3,Dosed_Material,"Solvents, gases & media",溶剂气体与介质,
+DOS-L3-09,L3,Dosed_Material,Carbon & nutrient sources,碳源与营养源,
+DOS-L3-10,L3,Dosed_Material,Metals & elements,金属与元素,
+DOS-L3-11,L3,Dosed_Material,General terms,统称,
+DOS-L3-12,L3,Dosed_Material,Out of domain,领域外,
+DOS-L2-001,L2,Dosed_Material,Mineral & framework adsorbents,矿物与骨架吸附剂,DOS-L3-01
+DOS-L2-002,L2,Dosed_Material,Photocatalysts,光催化剂,DOS-L3-01
+DOS-L2-003,L2,Dosed_Material,Carbon-based adsorbents,碳基吸附剂,DOS-L3-01
+DOS-L2-004,L2,Dosed_Material,Noble-metal & metal catalysts,贵金属与金属催化剂,DOS-L3-01
+DOS-L2-005,L2,Dosed_Material,Natural polymers,天然高分子,DOS-L3-02
+DOS-L2-006,L2,Dosed_Material,Synthetic polymers & hydrogels,合成高分子与水凝胶,DOS-L3-02
+DOS-L2-007,L2,Dosed_Material,Enzymes & microbial agents,酶与微生物制剂,DOS-L3-02
+DOS-L2-008,L2,Dosed_Material,Nanoparticles,纳米颗粒,DOS-L3-03
+DOS-L2-009,L2,Dosed_Material,Zero-valent and nanoscale iron,零价与纳米铁,DOS-L3-03
+DOS-L2-010,L2,Dosed_Material,Minerals & building materials,矿物与建材,DOS-L3-04
+DOS-L2-011,L2,Dosed_Material,Organic solid waste & compost,有机固废与堆肥,DOS-L3-04
+DOS-L2-012,L2,Dosed_Material,Ozone & chlorine-based agents,臭氧与氯系,DOS-L3-05
+DOS-L2-013,L2,Dosed_Material,Peroxides & persulfates,过氧与过硫酸盐,DOS-L3-05
+DOS-L2-014,L2,Dosed_Material,High-valent metal oxidants,高价金属氧化剂,DOS-L3-05
+DOS-L2-015,L2,Dosed_Material,Coagulants,混凝剂,DOS-L3-06
+DOS-L2-016,L2,Dosed_Material,Flocculants & conditioners,絮凝剂与调理剂,DOS-L3-06
+DOS-L2-017,L2,Dosed_Material,Salts & electrolytes,盐与电解质,DOS-L3-07
+DOS-L2-018,L2,Dosed_Material,Bases & lime,碱与石灰,DOS-L3-07
+DOS-L2-019,L2,Dosed_Material,Acids,酸,DOS-L3-07
+DOS-L2-020,L2,Dosed_Material,Solvents & surfactants,溶剂与表面活性剂,DOS-L3-08
+DOS-L2-021,L2,Dosed_Material,Gases,气体,DOS-L3-08
+DOS-L2-022,L2,Dosed_Material,Water & aqueous media,水与水基介质,DOS-L3-08
+DOS-L2-023,L2,Dosed_Material,External carbon sources,外加碳源,DOS-L3-09
+DOS-L2-024,L2,Dosed_Material,Nitrogen & phosphorus nutrient sources,氮磷营养源,DOS-L3-09
+DOS-L2-025,L2,Dosed_Material,Metals & metal salts,金属与金属盐,DOS-L3-10
+DOS-L2-026,L2,Dosed_Material,General material terms,材料统称,DOS-L3-11
+DOS-L2-027,L2,Dosed_Material,Pharmaceuticals & nutritional supplements,医药与营养补充,DOS-L3-12
+DOS-L2-028,L2,Dosed_Material,Plant hormones & agrochemicals,植物激素与农用,DOS-L3-12

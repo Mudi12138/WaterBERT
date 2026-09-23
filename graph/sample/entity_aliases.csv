@@ -1,0 +1,21 @@
+entity_id,alias
+E00001,ph
+E00001,potential of hydrogen (ph)
+E00001,hydrogen potential (ph)
+E00001,acidity (ph)
+E00001,hydrogen ion concentration (ph)
+E00001,potential hydrogen (ph)
+E00001,p (h)
+E00002,adsorption
+E00002,adsorption process
+E00002,ad-sorption
+E00002,adsorp-tion
+E00002,adsorption (ad)
+E00002,adsorption (ads)
+E00003,temperature
+E00003,temperature (temp)
+E00003,tem-perature
+E00003,temper-ature
+E00004,concentration
+E00005,chemical oxygen demand (cod)
+E00005,cod

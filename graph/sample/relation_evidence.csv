@@ -1,0 +1,21 @@
+evidence_id,paper_id,relation,re_confidence,head_entity_id,head_type,head_text,head_start,head_end,head_ner_confidence,head_link,tail_entity_id,tail_type,tail_text,tail_start,tail_end,tail_ner_confidence,tail_link,value_percent
+V00000001,P0356977,has,1.0,E00557,Wastewater_Treatment_Process,electrocoagulation process (EC),39,70,0.9997,span_exact,E00197,Treatment_Parameter,energy consumption,124,142,0.9896,span_exact,
+V00000002,P0356977,has,1.0,E00557,Wastewater_Treatment_Process,electrocoagulation process (EC),39,70,0.9997,span_exact,E00197,Treatment_Parameter,energy consumption,635,653,0.9913,span_exact,
+V00000003,P0356977,removes,1.0,E00557,Wastewater_Treatment_Process,electrocoagulation process (EC),39,70,0.9997,span_exact,E00038,Pollutant,turbidity,799,808,0.998,span_exact,
+V00000004,P0356977,removes,0.9999,E00557,Wastewater_Treatment_Process,electrocoagulation process (EC),39,70,0.9997,span_exact,E00303,Pollutant,total phosphorus,810,826,0.9991,span_exact,
+V00000005,P0356977,removes,0.9967,E00557,Wastewater_Treatment_Process,electrocoagulation process (EC),39,70,0.9997,span_exact,E00484,Pollutant,total organic carbon,831,851,0.9992,span_exact,
+V00000006,P0356977,has,0.9732,E00256,Wastewater_Treatment_Process,electrocoagulation process,1376,1402,0.9987,span_exact,E00715,Treatment_Parameter,potential,1132,1141,0.9064,alias_exact,
+V00000007,P0407155,removes,1.0,E14153,Wastewater_Treatment_Process,adsorption system,96,113,0.9875,span_exact,E00013,Pollutant,phosphorus (P),177,191,0.9985,span_exact,
+V00000008,P0407155,has,1.0,E14153,Wastewater_Treatment_Process,adsorption system,96,113,0.9875,span_exact,E09798,Treatment_Parameter,treatment capacity,284,302,0.9935,span_exact,
+V00000009,P0407155,removes,1.0,E14153,Wastewater_Treatment_Process,adsorption system,349,366,0.9867,span_exact,E00021,Pollutant,P,391,392,0.9948,span_exact,
+V00000010,P0407155,removes,1.0,E14153,Wastewater_Treatment_Process,adsorption system,349,366,0.9867,span_exact,E00730,Pollutant,orthophosphate,503,517,0.9988,span_exact,
+V00000011,P0407155,removes,1.0,E14153,Wastewater_Treatment_Process,adsorption system,349,366,0.9867,span_exact,E00303,Pollutant,total phosphorus,533,549,0.9994,span_exact,
+V00000012,P0407155,removal_rate,1.0,E00730,Pollutant,orthophosphate,503,517,0.9988,span_exact,,Value,91.23%,492,498,0.9994,value,91.23
+V00000013,P0407155,removal_rate,1.0,E00303,Pollutant,total phosphorus,533,549,0.9994,span_exact,,Value,78.51%,522,528,0.9994,value,78.51
+V00000014,P0551530,removes,0.9998,E03662,Wastewater_Treatment_Process,granular activated carbon (GAC) adsorption,40,82,0.9991,span_exact,E00958,Pollutant,organic micropollutants,1058,1081,0.9993,span_exact,
+V00000015,P0551530,removes,0.9947,E03662,Wastewater_Treatment_Process,granular activated carbon (GAC) adsorption,40,82,0.9991,span_exact,E00862,Pollutant,UV254,1083,1088,0.9991,span_exact,
+V00000016,P0551530,removes,1.0,E00002,Wastewater_Treatment_Process,adsorption,925,935,0.9939,span_exact,E00958,Pollutant,organic micropollutants,1058,1081,0.9993,span_exact,
+V00000017,P0551530,removes,1.0,E00002,Wastewater_Treatment_Process,adsorption,925,935,0.9939,span_exact,E00862,Pollutant,UV254,1083,1088,0.9991,span_exact,
+V00000018,P0551530,removes,1.0,E00002,Wastewater_Treatment_Process,adsorption,925,935,0.9939,span_exact,E10958,Pollutant,permanganate index,1093,1111,0.9986,span_exact,
+V00000019,P0618632,removal_rate,1.0,E00013,Pollutant,phosphorus,853,863,0.9989,span_exact,,Value,89.31-95.69 %,475,488,0.9994,value,
+V00000020,P0621050,removes,1.0,E00386,Wastewater_Treatment_Process,nanofiltration,123,137,0.9992,span_exact,E00008,Pollutant,nitrate,22,29,0.9991,span_exact,

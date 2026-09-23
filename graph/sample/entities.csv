@@ -1,0 +1,21 @@
+entity_id,name,entity_type,l3_category_id,l2_category_id,l3_en,l2_en,l3_zh,l2_zh,classification_status,domain_flag,n_surface_forms,mention_count,paper_count
+E00001,ph,Treatment_Parameter,TRP-L3-01,TRP-L2-003,Reaction conditions,pH & temperature,反应条件,酸碱与温度,classified,in_domain,7,157644,90389
+E00003,temperature,Treatment_Parameter,TRP-L3-01,TRP-L2-003,Reaction conditions,pH & temperature,反应条件,酸碱与温度,classified,in_domain,4,84567,51958
+E00002,adsorption,Wastewater_Treatment_Process,WTP-L3-01,WTP-L2-002,Physicochemical treatment,Adsorption & ion exchange,化学处理,吸附与离子交换,classified,in_domain,6,96522,39666
+E00004,concentration,Treatment_Parameter,TRP-L3-01,TRP-L2-001,Reaction conditions,Dosage & concentration,反应条件,投加与浓度,classified,in_domain,1,43816,28540
+E00005,chemical oxygen demand (cod),Pollutant,POL-L3-07,POL-L2-020,Aggregate water-quality indicators,Aggregate organic indicators,水质综合指标,有机物综合指标,classified,in_domain,7,43486,25165
+E00006,heavy metal,Pollutant,POL-L3-03,POL-L2-012,Heavy metals & metalloids,Heavy metals,重金属与类金属,重金属,classified,in_domain,7,33241,18489
+E00007,bacteria,Microorganism,MIC-L3-11,MIC-L2-015,General terms,General microbial terms,统称,微生物统称,classified,in_domain,3,28167,18088
+E00015,nitrogen,Pollutant,POL-L3-06,POL-L2-017,Nutrients,Nitrogen species,营养盐,氮系,classified,in_domain,1,21659,13619
+E00010,dye,Pollutant,POL-L3-05,POL-L2-016,Dyes,Dyes,染料,染料,classified,in_domain,1,23845,13478
+E00013,phosphorus,Pollutant,POL-L3-06,POL-L2-018,Nutrients,Phosphorus species,营养盐,磷系,classified,in_domain,5,22686,13337
+E00008,nitrate,Pollutant,POL-L3-06,POL-L2-017,Nutrients,Nitrogen species,营养盐,氮系,classified,in_domain,7,25244,12755
+E00025,contact time,Treatment_Parameter,TRP-L3-01,TRP-L2-002,Reaction conditions,Time,反应条件,时间,classified,in_domain,8,14958,12048
+E00028,microorganism,Microorganism,MIC-L3-11,MIC-L2-015,General terms,General microbial terms,统称,微生物统称,classified,in_domain,4,14219,10870
+E00016,hydrogen peroxide (h2o2),Dosed_Material,DOS-L3-05,DOS-L2-013,Oxidants & disinfectants,Peroxides & persulfates,氧化与消毒,过氧与过硫酸盐,classified,in_domain,10,20838,10417
+E00012,antibiotics,Pollutant,POL-L3-01,POL-L2-001,Organic micropollutants,Pharmaceuticals & personal care products,有机微污染物,药物与个人护理品,classified,in_domain,3,22755,9953
+E00009,pb (ii),Pollutant,POL-L3-03,POL-L2-012,Heavy metals & metalloids,Heavy metals,重金属与类金属,重金属,classified,in_domain,9,24348,9940
+E00033,organic pollutant,Pollutant,POL-L3-04,POL-L2-014,Bulk matrices & others,Bulk organics,基质与其他,有机基质,classified,in_domain,5,12093,9516
+E00030,microbial community,Microorganism,MIC-L3-05,MIC-L2-008,Communities & aggregates,Communities & cultures,群落与聚集体,群落与培养物,classified,in_domain,1,13590,9140
+E00050,initial concentration,Treatment_Parameter,TRP-L3-01,TRP-L2-001,Reaction conditions,Dosage & concentration,反应条件,投加与浓度,classified,in_domain,4,9868,8322
+E00032,water,Dosed_Material,DOS-L3-08,DOS-L2-022,"Solvents, gases & media",Water & aqueous media,溶剂气体与介质,水与水基介质,classified,in_domain,3,12423,8270

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use WaterBERT, WaterKG or the retrieval system, please cite the paper below."
+title: "WaterBERT"
+type: software
+authors:
+  - family-names: Zhai
+    given-names: Mudi
+    affiliation: "University of New South Wales"
+license: Apache-2.0
+repository-code: "https://github.com/Mudi12138/WaterBERT"
+version: "1.0.0"
+keywords:
+  - wastewater treatment
+  - language model
+  - knowledge graph
+  - named entity recognition
+  - relation extraction
+  - information retrieval
+# TODO: fill in once the paper is published
+preferred-citation:
+  type: article
+  title: "<paper title>"
+  authors:
+    - family-names: Zhai
+      given-names: Mudi
+  journal: "<journal>"
+  year: 2026
+  doi: "<doi>"

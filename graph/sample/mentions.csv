@@ -1,0 +1,21 @@
+mention_id,paper_id,entity_id,entity_type,surface_text,char_start,char_end,ner_confidence
+M00000001,P0599395,E00335,Pollutant,U(vi),253,258,0.9995
+M00000002,P0599395,E04290,Pollutant,Th(iv) ions,263,274,0.9517
+M00000003,P0599395,E02823,Wastewater_Treatment_Process,adsorption technique,286,306,0.9995
+M00000004,P0599395,,Dosed_Material,ZnO-TA nanoadsorbent,332,352,0.9997
+M00000005,P0599395,E03166,Dosed_Material,nanoadsorbent,448,461,0.6115
+M00000006,P0599395,E00001,Treatment_Parameter,pH,673,675,0.9997
+M00000007,P0599395,E01289,Treatment_Parameter,amount of sorbent,677,694,0.9997
+M00000008,P0599395,E00112,Treatment_Parameter,time,696,700,0.9995
+M00000009,P0599395,,Treatment_Parameter,initial concentration of sorbate,702,734,0.9996
+M00000010,P0599395,E00335,Pollutant,U(vi),922,927,0.9995
+M00000011,P0599395,E04290,Pollutant,Th(iv),941,947,0.9996
+M00000012,P0599395,E00001,Treatment_Parameter,pH,971,973,0.9998
+M00000013,P0599395,E03060,Treatment_Parameter,adsorbate concentration,1003,1026,0.9997
+M00000014,P0599395,E00335,Pollutant,U(vi),1218,1223,0.9995
+M00000015,P0599395,E04290,Pollutant,Th(iv),1228,1234,0.9994
+M00000016,P0599395,E00335,Pollutant,U(vi),1395,1400,0.988
+M00000017,P0599395,E04290,Pollutant,Th(iv),1405,1411,0.9781
+M00000018,P0599395,,Dosed_Material,ZnO-TA nanoadsorbent,1421,1441,0.9997
+M00000019,P0599395,E00178,Pollutant,uranium,1691,1698,0.9992
+M00000020,P0599395,E04055,Pollutant,thorium,1703,1710,0.9989

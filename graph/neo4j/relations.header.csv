@@ -1,0 +1,1 @@
+relation_id,:START_ID(Entity),:TYPE,:END_ID(Entity),n_evidence:long,n_papers:long,mean_re_confidence:double,max_re_confidence:double

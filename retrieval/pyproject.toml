@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "waterkg-retrieval"
+version = "1.0.0"
+description = "Hybrid entity-graph + dense retrieval over the WaterKG wastewater-treatment literature graph"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "Apache-2.0" }
+dependencies = [
+    "numpy",
+    "pandas",
+    "pyarrow",
+    "torch",
+    "transformers>=4.30",
+    "openai>=1.0",
+]
+
+[project.scripts]
+waterkg-retrieval = "waterkg_retrieval.cli:main"
+
+[tool.setuptools]
+packages = ["waterkg_retrieval"]
