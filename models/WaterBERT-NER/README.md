@@ -14,7 +14,7 @@ tags:
 # WaterBERT-NER
 
 Named-entity recognition for wastewater- and water-treatment literature, fine-tuned from
-[WaterBERT](../WaterBERT). It tags six entity types with a BIO scheme (13 labels):
+[WaterBERT](https://huggingface.co/Mudi12137/WaterBERT). It tags six entity types with a BIO scheme (13 labels):
 
 | Entity type | Covers (examples) |
 |---|---|
@@ -56,7 +56,7 @@ guideline and data are described in the accompanying paper.
 ## Limitations
 
 - Numeric values and removal efficiencies are not entity types of this model. The relation
-  model [WaterBERT-RE](../WaterBERT-RE) expects value spans from a separate value detector.
+  model [WaterBERT-RE](https://huggingface.co/Mudi12137/WaterBERT-RE) expects value spans from a separate value detector.
 - Boundaries of long compound names (e.g. *"rotating disc electrocoagulation system"*) and
   the type of cross-category words (e.g. *adsorption* as a process vs. a parameter) are the
   most common sources of error.

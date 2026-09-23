@@ -14,7 +14,7 @@ tags:
 # WaterBERT-RE
 
 Relation classification for wastewater- and water-treatment literature, fine-tuned from
-[WaterBERT](../WaterBERT). Given a text with two marked entities, it predicts one of four
+[WaterBERT](https://huggingface.co/Mudi12137/WaterBERT). Given a text with two marked entities, it predicts one of four
 labels:
 
 | Label | Head → tail | Meaning |
@@ -61,7 +61,7 @@ relations remain possible.
 
 ## Where the entity spans come from
 
-`POL`, `WTP`, `RCT` and `TRP` spans can come from [WaterBERT-NER](../WaterBERT-NER).
+`POL`, `WTP`, `RCT` and `TRP` spans can come from [WaterBERT-NER](https://huggingface.co/Mudi12137/WaterBERT-NER).
 `VAL` spans (numbers with units or percentages) are **not** produced by WaterBERT-NER; they
 must come from a separate value detector — a regular expression for percentages is enough
 for `removal_rate`.

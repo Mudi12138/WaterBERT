@@ -21,8 +21,8 @@ obtained by continuing masked-language-model (MLM) pretraining of
 domain corpus of water-treatment research text. The vocabulary is SciBERT's (31,090 tokens);
 only the weights were adapted.
 
-It is the shared backbone of [WaterBERT-NER](../WaterBERT-NER) and
-[WaterBERT-RE](../WaterBERT-RE), and is intended as a starting point for fine-tuning on
+It is the shared backbone of [WaterBERT-NER](https://huggingface.co/Mudi12137/WaterBERT-NER) and
+[WaterBERT-RE](https://huggingface.co/Mudi12137/WaterBERT-RE), and is intended as a starting point for fine-tuning on
 water-treatment NLP tasks (entity recognition, relation extraction, classification, retrieval).
 
 ## Usage
