@@ -77,13 +77,3 @@ for x in res["results"]:
     print(x["rank"], x["paper_id"], x["source"], x["doi"])
 ```
 
-## Notes
-
-- Memory: the fp16 embedding matrix is about 1.4 GB and is memory-mapped; a CPU is enough.
-  The BGE model (~1.3 GB) is downloaded from Hugging Face on first use.
-- Papers are identified by the release's anonymous `paper_id` (`P0000001` …); use `doi` to
-  look a paper up. About 7.7% of papers have no DOI.
-- LLM2 sees the English category names of the release. The system evaluated in the paper
-  showed LLM2 the original Chinese names of the same categories; the mapping is one-to-one.
-- To read titles and abstracts of the returned papers, look the DOIs up in an open metadata
-  service such as OpenAlex or Crossref.

@@ -24,6 +24,11 @@ labels:
 | `has` | Process or Reactor → Treatment_Parameter | the parameter describes the process/reactor |
 | `no_relation` | any valid pair | no relation stated |
 
+This is the relation model used to build the [WaterKG](https://huggingface.co/datasets/Mudi12137/WaterKG)
+knowledge graph. A finer-grained first-generation model with five relations (process,
+pollutant, removal efficiency, parameter and value) is available as
+[WaterBERT-RE-v1](https://huggingface.co/Mudi12137/WaterBERT-RE-v1).
+
 Only these entity-type pairs are valid inputs (`label_config.json`):
 (Process, Pollutant), (Reactor, Pollutant), (Pollutant, Value), (Process, Parameter),
 (Reactor, Parameter).

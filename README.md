@@ -7,8 +7,9 @@ wastewater-treatment research literature.
 |---|---|---|
 | **WaterBERT** | SciBERT further pretrained on water-treatment literature | [`models/WaterBERT`](models/WaterBERT) · Hugging Face `Mudi12137/WaterBERT` |
 | **WaterBERT-NER** | six-type named-entity recognition | [`models/WaterBERT-NER`](models/WaterBERT-NER) · Hugging Face `Mudi12137/WaterBERT-NER` |
-| **WaterBERT-RE** | relation classification (`removes`, `removal_rate`, `has`) | [`models/WaterBERT-RE`](models/WaterBERT-RE) · Hugging Face `Mudi12137/WaterBERT-RE` |
-| **WaterKG** | 118,131 entities, 672,380 papers, 4.1 M entity–paper links, 0.9 M relation evidence | [`graph/`](graph) · Zenodo `<DOI>` |
+| **WaterBERT-RE** | relation classification (`removes`, `removal_rate`, `has`); used to build WaterKG | [`models/WaterBERT-RE`](models/WaterBERT-RE) · Hugging Face `Mudi12137/WaterBERT-RE` |
+| **WaterBERT-RE-v1** | first-generation fine-grained relation classification (`targets`, `has_efficiency`, `indicates_removal_of`, `conditioned_by`, `has_value`) | [`models/WaterBERT-RE-v1`](models/WaterBERT-RE-v1) · Hugging Face `Mudi12137/WaterBERT-RE-v1` |
+| **WaterKG** | 118,131 entities, 672,380 papers, 4.1 M entity–paper links, 0.9 M relation evidence | [`graph/`](graph) · Hugging Face dataset `Mudi12137/WaterKG` |
 | **Hybrid retrieval** | entity-graph + dense (BGE) literature search | [`retrieval/`](retrieval) |
 
 Entity types: `Pollutant`, `Wastewater_Treatment_Process`, `Reactor`, `Treatment_Parameter`,
